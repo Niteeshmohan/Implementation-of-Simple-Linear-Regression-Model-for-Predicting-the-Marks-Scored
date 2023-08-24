@@ -78,13 +78,13 @@ print("RMSE = ",rmse)
 ### Tail:
 ![image](tail.png)
 ### Array value of X:
-![image](arrayx)
+![image](arrayx.png)
 ### Array value of Y:
-![image](arrayy)
+![image](arrayy.png)
 ### Values of Y prediction:
-![image](ypredict)
+![image](ypredict.png)
 ### Array values of Y test:
-![image](ytest)
+![image](ytest.png)
 ### Training Set Graph:
 ![image](pic1.png)
 ### Test Set Graph:
